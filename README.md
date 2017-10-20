@@ -1,2 +1,2 @@
 # Scrabble
-A Greek version of Scrabble game in Python
+A Greek version of Scrabble game written in Python
